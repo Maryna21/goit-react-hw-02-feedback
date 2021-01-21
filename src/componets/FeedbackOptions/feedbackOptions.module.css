@@ -1,0 +1,12 @@
+.button{
+    margin-right: 5px;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 5px;
+    border: 1px solid grey ;
+    cursor: pointer;
+}
+.button:focus{
+    background-color: #0394fc;
+}
